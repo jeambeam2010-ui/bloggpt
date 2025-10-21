@@ -1,0 +1,1 @@
+echo -e "Flask>=3.0\ngunicorn>=21.2" > requirements.txt
